@@ -1,0 +1,1 @@
+Project: Iris Flower Classification Built a machine learning model using k-NN to classify iris flowers into three species based on petal and sepal measurements. Achieved high accuracy by training and evaluating the model using standard metrics like accuracy, precision, and recall.
